@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lewhuson/Desktop/Home_Bartending_Project/Android/Home_Bartending/Home_Bartending/app/src/main/res/layout/main.xml" value="0.17300724637681159" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/drawable/five.xml" value="0.2962962962962963" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/drawable/four.xml" value="0.2962962962962963" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/drawable/one.xml" value="0.30052083333333335" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/drawable/three.xml" value="0.2962962962962963" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/drawable/two.xml" value="0.35104166666666664" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/layout/activity_search.xml" value="0.17696629213483145" />
+        <entry key="..\:/XIAO/Home_Bartending-main/Home_Bartending/app/src/main/res/layout/fruit_item.xml" value="0.41938405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
